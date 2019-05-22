@@ -1,3 +1,4 @@
+{% raw %}
 <div id="between-head-and-foot">
   <div id="logo">
     <a href="/"><img src="img/sim4edu.svg" alt="Sim4edu logo"/></a>
@@ -25,3 +26,4 @@
     </nav>
   </div>
 </div>
+{% endraw %}
