@@ -1,5 +1,5 @@
 <div id="between-head-and-foot">
-        <main>
+  <main>
          <section class="description"><h1>Web-Based Simulation for Science and Education</h1>
           <div>
            <p>The <em>Simulation for Education (Sim4edu</em>) project website supports web-based simulation
@@ -76,8 +76,8 @@
           </dl>
           <p><a href="continuous-models/index.html">More...</a></p>
          </section>
-        </main>
-        <aside><h1>News...</h1>
+  </main>
+  <aside><h1>News...</h1>
          <ul>
           <li>8-Apr-2019: We are looking for <strong>volunteer translators</strong> to Spanish, Brazilian, French or any language you'd like to support. 
            Please <a href="mailto:G.Wagner@b-tu.de?subject=Sim4edu%20Translation&body=Hi%20guys!%0D%0AI'd%20like%20to%20help%20with%20translating%20Sim4edu%20to%20...">contact us</a> 
@@ -90,5 +90,5 @@
           <li>9-May-2018: OESjs 1.3a has been released. It allows defining simulation experiments and runs faster due to running the simulator in its own (worker) thread.</li>
           <li>4-May-2018: The Sim4edu website has moved to Netlify</li>
          </ul>
-        </aside>
-       </div>
+  </aside>
+</div>
