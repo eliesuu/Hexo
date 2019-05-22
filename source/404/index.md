@@ -1,6 +1,3 @@
- <head>
- <%- css('css/404') %>
-</head>
 <div id="between-head-and-foot">
   <main>
    <h1>404 PAGE NOT FOUND </h1> <br>
