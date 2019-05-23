@@ -1,4 +1,3 @@
-
 {% raw %}
  <div id="between-head-and-foot">
   <main>
@@ -84,17 +83,5 @@
 </ul>
 
   </main>
-
-  <nav><h1>Navigation</h1>
-   <ul>
-    <li><a href="../index.html">Home</a></li>
-    <li><a href="../oes" title="Agent/Object Event Simulation">A/OES</a></li>
-    <li><a href="../simulations">Simulations</a></li>
-    <li><a href="../reading">Tutorials/Articles</a></li>
-    <li><a href="../downloads">Downloads</a></li>
-    <li><a href="../faq" title="Frequently Asked Questions">FAQ</a></li>
-   </ul>
-  </nav>
-
   </div>
   {% endraw %}
