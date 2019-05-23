@@ -1,7 +1,7 @@
 /*********************************************
 A horizontal flex container for sections
 *********************************************/
-main > start-page {
+main.start-page {
   display: flex;
   flex-flow: row wrap;
   order: 1;/* Assign a higher order number to the flex-items main and aside, so nav is displayed first. By default flex-items have an order number of 0. */
