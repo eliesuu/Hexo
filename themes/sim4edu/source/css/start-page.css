@@ -7,7 +7,7 @@ main.start-page {
   order: 1;/* Assign a higher order number to the flex-items main and aside, so nav is displayed first. By default flex-items have an order number of 0. */
   flex: 1; /* shorthand for flex-grow [flex-shrink [flex-basis]] combined default is 0 1 auto  */
 }
-description h1 {
+.description h1 {
   font: bold 20px sans-serif; 
   background:#DDD; 
   padding: 10px 20px 5px 20px; 
