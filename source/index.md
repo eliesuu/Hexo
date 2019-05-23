@@ -1,6 +1,6 @@
 {% raw %}
 <div id="between-head-and-foot">
-  <main>
+  <main class="start-page">
     <section class="description">
       <h1>Web-Based Simulation for Science and Education</h1>
       <div>

@@ -1,7 +1,7 @@
 /*********************************************
 A horizontal flex container for sections
 *********************************************/
-main {
+main > start-page {
   display: flex;
   flex-flow: row wrap;
   order: 1;/* Assign a higher order number to the flex-items main and aside, so nav is displayed first. By default flex-items have an order number of 0. */
@@ -34,6 +34,3 @@ aside ul {
 }
 
 
-.sim-category {color:#666;margin:10px;padding: 1em;}
-.sim-category a {color:#FF6600}
-.sim-category li {margin-left: -20px;}
