@@ -1,3 +1,7 @@
+---
+title: OBJECT EVENT MODELING AND SIMULATION
+---
+
 {% raw %}
  <div id="between-head-and-foot">
   <main>
