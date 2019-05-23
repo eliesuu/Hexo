@@ -1,10 +1,8 @@
 ---
-title: FAQ
+title: Frequently Asked Questions (FAQ)
 ---
 {% raw %}
-<div id="between-head-and-foot">
-  <main>
-	<h1 id="page-title">Frequently Asked Questions (FAQ)</h1>   <ol>
+<ol>
     <li><a href="#Q0">Are JavaScript simulations only good for educational purposes?</a></li>
     <li><a href="#Q1">Why should I learn JavaScript? Why should, for instance, a Java expert want to learn JavaScript?</a></li>
     <li><a href="#Q2">How can I learn JavaScript?</a></li>
@@ -36,6 +34,4 @@ title: FAQ
     <h2 id="Q5">6 Isn't JavaScript unsafe because it's not statically typed?</h2>
     <p>Like Python and Ruby, JavaScript is dynamically typed, which is convenient. But you can get into trouble. Putting checks in place and writing tests helps to prevent typing errors.</p>
    </section>
-  </main>
-  </div>
 {% endraw %}

@@ -1,10 +1,7 @@
 ---
-title: simulations
+title: Eine Simulation ausführen
 ---
 {% raw %}
- <div id="between-head-and-foot">
-  <main>
-	<h1 id="page-title">Eine Simulation ausführen</h1>    
 <section><h1>Diskrete Ereignis-Simulationen</h1>
 
     <p>... are computational models of real-world systems conceived as <em>discrete dynamic systems</em> by representing
@@ -40,7 +37,4 @@ title: simulations
 
     <p>Go to <a href="../continuous-models/index.html">Continuous Simulation Models</a>.</p>
     </section>
-
-  </main>
-  </div>
   {% endraw %}
