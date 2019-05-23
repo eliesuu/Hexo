@@ -4,7 +4,7 @@ title: Downloads
 {% raw %}
 <div id="between-head-and-foot">
   <main>
-	<h1 id="page-title">Downloads</h1>
+	<h1 id="page-title"><%- page.title%></h1>
 <p>Sie können das <i>OESjs</i>-Simulations-Framework, zusammen mit einer Auswahl an Simulations-Beispielen, herunterladen und die Beispiele modifizieren oder Ihre eigenen web-basierten Simulationen erstellen.</p>
 
 <p><a href="OESjs-1.3e.zip">Laden Sie das OESjs-ZIP-Archiv herunter</a> und extrahieren Sie seinen Inhalt (z.B. in Ihre "C:" oder "D:"-Partiton, oder in einen passenden Ordner wie z.B. "D:\simulations"). Dadurch wird ein Ordner mit dem Namen "OESjs" erzeugt. Anschließend können Sie</p>
