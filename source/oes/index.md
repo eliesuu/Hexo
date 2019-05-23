@@ -1,5 +1,5 @@
 ---
-title: OBJECT EVENT MODELING AND SIMULATION
+title: Object Event Modeling And Simulation
 ---
 
 {% raw %}
@@ -88,4 +88,4 @@ title: OBJECT EVENT MODELING AND SIMULATION
 
   </main>
   </div>
-  {% endraw %}
+{% endraw %}
