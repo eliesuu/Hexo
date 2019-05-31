@@ -22,10 +22,6 @@
     }
   }
  </script>
-
-
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <meta http-equiv="Content-Language" content="en"/>
 <meta name="description" content="The Simulation for Education (sim4edu.com) project website supports web-based simulation with open source technologies for science and education. It provides both simulation technologies and a library of educational simulations." />
@@ -90,6 +86,10 @@
      gtag('config', 'UA-98612205-1', {'anonymize_ip':true});
     </script>
     -->
-
- <%- css(['css/ant.css', 'css/basic-styles.css', 'css/normalize.css', 'css/page.css', 'css/prio-menu.css', 'css/media-queries.css']) %> 
+    
+    <% if (page.title) { %>
+      <%- css(['css/ant.css', 'css/basic-styles.css', 'css/normalize.css', 'css/page.css', 'css/prio-menu.css', 'css/media-queries.css']) %> 
+      <%} else {%>
+        <%- css(['css/ant.css', 'css/normalize.css', 'css/basic-styles.css', 'css/start-page.css', 'css/prio-menu.css', 'css/media-queries.css']) %> 
+      <%} %>
 </head> 
