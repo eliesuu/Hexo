@@ -58,7 +58,7 @@
 @media (min-width: 1800px) {
  header img {max-height:100px;} 
  nav {padding-right:0px;}
- aside, #language, ection.sim-category > h1,p,dt,dd, {font-size:130%}
+ aside, #language, ection.sim-category > h1,p,dt,dd {font-size:130%}
  nav, .description h1,h1 {font-size:170%}
  #language svg{width:25px;}
  body img {width:20%;}
@@ -74,6 +74,5 @@
  aside, section.sim-category > h1,p,dt,dd,#language  {font-size:200%}
  #language svg{width:40px;}
  #slogan {font-size:3em;margin: 10px 50px 10px 50px;width:60%} 
-
 }
 
