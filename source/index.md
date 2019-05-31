@@ -1,4 +1,3 @@
-{% raw %}
 <div id="between-head-and-foot">
   <main class="start-page">
     <section class="description">
@@ -93,4 +92,3 @@
          </ul>
   </aside>
 </div>
-{% endraw %}
