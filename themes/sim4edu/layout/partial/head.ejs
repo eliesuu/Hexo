@@ -92,8 +92,8 @@
     -->
     <%- css(['css/ant.css', 'css/normalize.css', 'css/basic-styles.css', 'css/start-page.css', 'css/prio-menu.css', 'css/media-queries.css']) %> 
     <%- css('css/style') %>
-    <% if (page.title === ('404')) { %>
-      <%- css('css/404.css') %>
+    <% if (page.title) { %>
+      <%- css('css/page-area.css') %>
       <%} %>
 
 </head> 
