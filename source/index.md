@@ -78,7 +78,7 @@
           <p><a href="continuous-models/index.html">More...</a></p>
          </section>
   </main>
-  <aside><h1>News...</h1>
+  <aside><h1>News...!</h1>
          <ul>
           <li>8-Apr-2019: We are looking for <strong>volunteer translators</strong> to Spanish, Brazilian, French or any language you'd like to support. 
            Please <a href="mailto:G.Wagner@b-tu.de?subject=Sim4edu%20Translation&body=Hi%20guys!%0D%0AI'd%20like%20to%20help%20with%20translating%20Sim4edu%20to%20...">contact us</a> 
