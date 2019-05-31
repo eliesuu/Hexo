@@ -2,7 +2,7 @@
 <div id="between-head-and-foot">
   <main class="start-page">
     <section class="description">
-      ## Web-Based Simulation for Science and Education 
+      # Web-Based Simulation for Science and Education #
       <div>
         <p>The <em>Simulation for Education (Sim4edu</em>) project website supports web-based simulation with open source technologies for science and education. It provides both <b><i>simulation
              technologies</i></b> and a <b><i>library of educational simulations</i></b>. Its goal is to support various
