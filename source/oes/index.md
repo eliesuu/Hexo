@@ -5,6 +5,7 @@ title: Object Event Modeling And Simulation
 {% raw %}
  <div id="between-head-and-foot">
   <main>
+	<p>HALO</p>
 	<aside>
 	 <h3>Papers</h3>
 	 <dl style="padding-left:0"><dt>OEM</dt>
